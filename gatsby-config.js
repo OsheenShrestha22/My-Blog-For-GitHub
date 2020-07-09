@@ -4,6 +4,10 @@ const pxtorem = require('postcss-pxtorem')
 const url = 'https://lumen.netlify.com'
 
 module.exports = {
+  pathPrefix: "/My-Blog-For-GitHub",
+}
+
+module.exports = {
   siteMetadata: {
     url,
     siteUrl: url,
