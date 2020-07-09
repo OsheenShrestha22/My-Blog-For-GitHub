@@ -6,7 +6,6 @@ const url = 'https://lumen.netlify.com'
 
 module.exports = {
   siteMetadata: {
-    pathPrefix: "/my_project",
     url,
     siteUrl: url,
     title: 'Blog by John Doe',
