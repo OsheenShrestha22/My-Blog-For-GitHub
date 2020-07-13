@@ -5,7 +5,6 @@ const url = 'https://lumen.netlify.com'
 
 
 module.exports = {
-  pathPrefix: 'osheenshrestha22.github.io/My-Blog-For-GitHub/'
   siteMetadata: {
     url,
     siteUrl: url,
