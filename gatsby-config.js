@@ -29,7 +29,7 @@ module.exports = {
     ],
     author: {
       name: 'Osheen Shrestha',
-      email: '#',
+      email: 'https://www.instagram.com/',
       telegram: '#',
       twitter: '#',
       github: '#',
