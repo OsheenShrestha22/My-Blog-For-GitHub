@@ -8,9 +8,9 @@ module.exports = {
   siteMetadata: {
     url,
     siteUrl: url,
-    title: 'Blog by John Doe',
+    title: 'Blog by Osheen',
     subtitle:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+      '$ cd / I am not a geek',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -28,7 +28,7 @@ module.exports = {
       },
     ],
     author: {
-      name: 'Osheen Doe',
+      name: 'Osheen Shrestha',
       email: '#',
       telegram: '#',
       twitter: '#',
