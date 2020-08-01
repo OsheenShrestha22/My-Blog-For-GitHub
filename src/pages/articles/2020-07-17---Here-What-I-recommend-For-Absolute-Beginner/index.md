@@ -4,17 +4,17 @@ date: "2020-07-17T22:40:32.169Z"
 layout: post
 draft: false
 path: "/posts/Here-What-I-recommend-For-Absolute-Beginner/"
-category: "recommend"
+category: "Python"
 tags:
-  - "recommend"
+  - "Basics"
   - "Python"
   - "learning Python"
 description: "Here I have shared about the mistakes that I have done while learning to code. And the list of the handful resources in order to practice to code."
 ---
 
 I am a Data Engineer at Deerwalk, Inc. As a Data Engineer, I ensure that right data fields are mapped to company standard fields using the ETL process on healthcare data from varying sources (Eligibility, Medical, Pharmacy, LAB, Vision) and layouts and preparing analysis reports for data validation.
- It's been more than two years that I am working in the Healthcare Domain and work has been way monotonous than ever. Therefore, I wanted to enhance my skills in the data domain. I found out that
-Python is one of the valuable skills needed for a Data Science career.
+
+It's been more than two years that I am working in the Healthcare Domain and work has been way monotonous than ever. Therefore, I wanted to enhance my skills in the data domain. I found out that Python is one of the valuable skills needed for a Data Science career.
 
 It's been months that I had started to learn Python.
 
@@ -48,6 +48,7 @@ Here are some of the resources, that I have referred to in order to learn the ba
 * If you prefer books to learn then here are few books that I recommend and are also free
   * [Think Like a Computer Scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
   * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+
   *Here is the huge collections of online books : [click](https://pythonbooks.revolunet.com/)*
 
 * If you have already master the basic syntax and want to test your coding skills then you can test it on [Project Euler](https://projecteuler.net/)
