@@ -23,5 +23,3 @@ I have already started to work on this project with the help of my friends. And 
 The project that I have been blabbing about is a clothing website. Believe me, people, this is not just an inventory site. It is more than this. We will be building this site using Python language in the Django framework. I have already learned the basics of Django, HTML, CSS, BootStrap, and JavaScript. I know Python as well. From today onwards, I will be dedicating at least 5 hours beside my office work to achieve my goals. I will be sharing about the journey on my Youtube channel as well. I will be sharing about the resources that I have learned from and mistakes that I have made in my journey so that you can learn from them. Let's get started.
 
 I hope I will be proud of myself in 2022. Happy New Year!!!
-
-Hope this project will be useful for you guys as well
